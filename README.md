@@ -81,6 +81,8 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
 
 7.         Insights o hallazgos de la data.
 
+![Inciso 7](https://user-images.githubusercontent.com/89221655/162658334-14027f33-2da2-4c43-958d-68d1ef4702a9.png)
+_Relación en la población GT arriba de 15 años que tiene lineas telefonicas y consumen internet_
 
 
 
