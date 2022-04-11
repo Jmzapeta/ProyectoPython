@@ -51,6 +51,8 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
 
 
 5.         Carga en Python, Limpieza de Datos, Joins, reshape de datos.
+            (Se realizo reshape de filas para todoas las tablas para que tuvieran la misma cantidad de filas y tambien que tuvieran como llave Depto ID y se normalizaron las bases de datos lo que permitio unicarlas y procesarlas)
+            
            - Con codigo se cargo 1 tabla desde s3 y se llama telefonias
 
 ![Inciso5](https://user-images.githubusercontent.com/89221655/162656876-d99ed52a-c162-432b-95b2-bacac91ae450.png)
@@ -71,18 +73,16 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
            
  ![inciso 5-5](https://user-images.githubusercontent.com/89221655/162657566-a121af42-88ef-452c-9e01-2d02cfaf8cbf.png)
 
-           - Codigo de carga posterior a la transformación de los datos
-           
- ![Inciso 5-6](https://user-images.githubusercontent.com/89221655/162657630-b74db610-5da4-43d8-833f-bb41e2546738.png)
+      
 
- 
- (Se realizo reshape de filas para todoas las tablas para que tuvieran la misma cantidad de filas y tambien que tuvieran como llave Depto ID y se normalizaron las bases de datos lo que permitio unicarlas y procesarlas)
-
-
-6.         Formacion de fact table para crear un archivo final de consumo para S3 (Analitica)
+6.         Creacion de fact table como archivo final de CSV para consumo S3 (Analitica)
+![Inciso 5-6](https://user-images.githubusercontent.com/89221655/162658169-66317275-7904-4739-bd7d-53a93486d5e3.png)
 
 
 7.         Insights o hallazgos de la data.
+
+
+
 
 
 ## Analitica
