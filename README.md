@@ -2,14 +2,14 @@
 ## Scope del Proyecto
 | ETAPA | DESCRIPCION |
 | ----- | ----------- |
-|OBJETIVOS| Definir el impacto de cobertura de internet en el pais para realizar programas en linea que disminuyan el analfabetismo contribuyendo al aumento de la poblacion economica activa|
+|OBJETIVOS| Definir el impacto de la cobertura de internet en el pais para realizar programas en linea que disminuyan el analfabetismo contribuyendo al aumento de la poblacion economica activa|
 |RECURSOS| -  Personal (Tres Personas) Trabajo 10 horas de trabajo a la semana durante 2 semanas|
 |        | - 3 Archivos CVS cargados a S3|
 |        | - 1 BD cargada a RDS por medio de DATAGRIP MYSQL|
 |        | - Python desde Jupiter Lab en anaconda          |
 |ENTREGABLE| **Link a repositorio donde se ubican los codigos utilizados para realizacion de proyecto** https://github.com/androseo/tareas-y-proyectos/tree/main/ProyectoFinalPython|
 |          |El archivo llamado RDS-S3.ipynb contiene todo el codigo de ETL|
-||**Video Presentacion de Proyecto** https://youtu.be/_egtkBPSyfg|
+||**Video Presentacion de Proyecto** https://youtu.be/_egtkBPSyfg  |
 |CRONOGRAMA|1 al 3 Abril (Busqueda de informacion a utilizar)|
 |          |4 al 6 Abril (Revision y unificacion de informacion para Analisis BI)|
 |          |6 al 8 Abril (Realizacion de primer borrador|
