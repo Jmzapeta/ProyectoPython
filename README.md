@@ -3,7 +3,20 @@
 | ETAPA | DESCRIPCION |
 | ----- | ----------- |
 |OBEJTIVOS| Definir el impacto de cobertura de internet en el pais para realizar programas en linea que disminuyan el analfabetismo contribuyendo al aumento de la poblacion economica activa|
-|RECURSOS| -  Equipo Web (Tres Personas) Trabajo 
+|RECURSOS| -  Personal (Tres Personas) Trabajo 10 horas de trabajo a la semana durante 2 semanas|
+|        | - 3 Laptops|
+|        | - Bases de Datos|
+|        |                 |
+|Entregable|Reporte BI para toma de decisiones|
+|Cronograma|1 al 3 abril (Busqueda de informacion a utilizar)|
+|          |4 al 6 abril (Revision y unificacion de informacion para Analisis BI)|
+|          |6 al 8 abril (Realizacion de primer borrador|
+|          |8 al 10 abril (Realizacion de presentacion Markdonw|
+|          |10 al 12 abril (Revision para entrega final|
+|          |        |
+|Fuera de alcance| Nota del Proyecto|
+
+             
 
 ## Modelo de Datos
 
