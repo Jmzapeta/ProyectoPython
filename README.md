@@ -34,18 +34,29 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
            -          Usuarios Moviles (Data Interna)
                           
 2.         Carga archivos a S3
-           - Se creo la estructura de datos en SQL sobre el censo de la Poblacion de Guatemala 2018.
-           
+![Cod2](https://user-images.githubusercontent.com/89221655/162655379-f1a56b02-523a-479b-94b0-0377484c5991.png)
+
+
+![S3-2](https://user-images.githubusercontent.com/89221655/162654982-0a7394c1-96e5-4a8d-a4e7-d2c9277e462f.png)
+
 3.         Exploracion de Datos 
+           Se procedio a cargar los archivos en python para observar su contenido, y descartar aquellas que no aportaban al proyecto.         
+![inciso3](https://user-images.githubusercontent.com/89221655/162655884-3e5beabe-1227-44b4-bdfa-0467c4e24962.png)
+
          
 4.         Carga BD por DataGrip a RDS
          - Se creo la estructura de datos en SQL sobre el censo de la Poblacion de Guatemala 2018.
-         
+       
+![RDS2](https://user-images.githubusercontent.com/89221655/162654327-d38a28d5-b83e-4192-a6fc-1a849ab241cf.png)
+
+
 5.         Carga en Python, Limpieza de Datos, Joins, reshape de datos.
+
 
 6.         Formacion de fact table para crear un archivo final de consumo para S3 (Analitica)
 
-7.         Insides de la data.
+
+7.         Insights o hallazgos de la data.
 
 
 ## Analitica
