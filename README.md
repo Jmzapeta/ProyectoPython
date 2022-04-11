@@ -26,7 +26,9 @@
 
 
 ## Analitica
- -  Se resolvieron las siguientes preguntas con el proyecto
-
+ -  Se analizacion los siguientes variables con la realizacion del proyecto
 
 ![Preguntas](https://user-images.githubusercontent.com/89221655/162644423-97b969b8-129f-4b60-b585-61dd779580d5.png)
+
+Internet ha estado evolucionando de la mano con las nuevas tecnologias las cuales son utilizadas para una diversidad de tareas para el ser Humano, por otro lado el analfabetismo que es un problema social, que va en aumento, y no solo se limita a personas que no saben leer y escribir, hoy en dia un analfabeta es aquel no sabe navegar en el ciber espacio, aquel no estudia una segunda Legua, el que no entiende las Matematicas,etc.
+Se necesita inversion de las partes interesadas para lograr un aumento de programas que contraresten el/al analfabetismo en el pais; se tienen mas oportunidades laborares al estar capacitado, dando oportunidad a familias de mejorar su ingreso economico y asi lograr ser un pais encaminado al desarrollo.
