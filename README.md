@@ -29,12 +29,17 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
 ## Procesamiento
 
 1.         Seleccionar datos o archivos CSV para trabajar
-         
+           -          Los archivos que se trabajaron fueron descargados de: INE (Población Guatemalteca Censo, Educacion Formal)
+           -          Cuentas de Usuarios Facebook (META)
+           -          Usuarios Moviles (Data Interna)
+                          
 2.         Carga archivos a S3
-
+           - Se creo la estructura de datos en SQL sobre el censo de la Poblacion de Guatemala 2018.
+           
 3.         Exploracion de Datos 
          
 4.         Carga BD por DataGrip a RDS
+         - Se creo la estructura de datos en SQL sobre el censo de la Poblacion de Guatemala 2018.
          
 5.         Carga en Python, Limpieza de Datos, Joins, reshape de datos.
 
