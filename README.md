@@ -51,6 +51,32 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
 
 
 5.         Carga en Python, Limpieza de Datos, Joins, reshape de datos.
+           - Con codigo se cargo 1 tabla desde s3 y se llama telefonias
+
+![Inciso5](https://user-images.githubusercontent.com/89221655/162656876-d99ed52a-c162-432b-95b2-bacac91ae450.png)
+
+           - Codigo de Joins y union de Tablas.
+
+![Inciso 5-2](https://user-images.githubusercontent.com/89221655/162656925-d0871d88-f2fb-4659-a369-a62d0d12987e.png)
+
+           - Rename de Columnas
+
+![inciso 5-3](https://user-images.githubusercontent.com/89221655/162656975-f295511d-9144-41b6-ab26-20098489bf75.png)
+
+           - Operaciones entre columnas
+           
+ ![inciso 5-4](https://user-images.githubusercontent.com/89221655/162657198-5806ffcb-5345-418c-bc11-cbbade848e15.png)
+
+           - Base para Analisis
+           
+ ![inciso 5-5](https://user-images.githubusercontent.com/89221655/162657566-a121af42-88ef-452c-9e01-2d02cfaf8cbf.png)
+
+           - Codigo de carga posterior a la transformación de los datos
+           
+ ![Inciso 5-6](https://user-images.githubusercontent.com/89221655/162657630-b74db610-5da4-43d8-833f-bb41e2546738.png)
+
+ 
+ (Se realizo reshape de filas para todoas las tablas para que tuvieran la misma cantidad de filas y tambien que tuvieran como llave Depto ID y se normalizaron las bases de datos lo que permitio unicarlas y procesarlas)
 
 
 6.         Formacion de fact table para crear un archivo final de consumo para S3 (Analitica)
