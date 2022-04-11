@@ -15,10 +15,15 @@
 |          |10 al 12 abril (Revision para entrega final|
 |          |        |
 |Fuera de alcance| Nota del Proyecto|
-
-             
-
+           
 ## Modelo de Datos
+Se utilizo el modelo relacional por su estructura y conveniencia, la principal ventaja de la base de datos relacional reside en la sencillez, que nos permitira manejar grandes cantidades de datos con puntos de relación entre sí, gestionándolos de forma segura y conforme a unas normas y un modo uniforme.
+
+Permitira mantener la uniformidad de los datos en todas las aplicaciones y copias de de la propia base, esto nos garantiza que no se produzca la duplicidad de registros, Así mismo, para evitar conflictos cuando varios usuarios o aplicaciones intentan acceder a los mismos datos en el mismo momento, pueden bloquear dicho acceso mientras los datos se están actualizando.
+
+Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de varios usuarios o aplicaciones al mismo tiempo en la misma base de datos. A través de ella se proporciona el acceso corrector a los usuarios o aplicaciones según las normas o políticas definidas para el control de datos.
+
+![Tabla](https://user-images.githubusercontent.com/89221655/162648026-98b9c145-8843-49fd-afa2-37fd577901f5.png)
 
 
 ## Procesamiento
