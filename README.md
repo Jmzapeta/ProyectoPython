@@ -7,7 +7,8 @@
 |        | - 3 Archivos CVS cargados a S3|
 |        | - 1 BD cargada a RDS por medio de DATAGRIP MYSQL|
 |        | - Python desde Jupiter Lab en anaconda          |
-|ENTREGABLE| **Link a repositorio donde se ubican los codigos utilizados para realizacion de proyecto** https://github.com/androseo/tareas-y-proyectos/tree/main/ProyectoFinalPython| 
+|ENTREGABLE| **Link a repositorio donde se ubican los codigos utilizados para realizacion de proyecto** https://github.com/androseo/tareas-y-proyectos/tree/main/ProyectoFinalPython|
+|          |El archivo llamado RDS-S3.ipynb contiene todo el codigo de ETL|
 ||**Video Presentacion de Proyecto** |
 |CRONOGRAMA|1 al 3 Abril (Busqueda de informacion a utilizar)|
 |          |4 al 6 Abril (Revision y unificacion de informacion para Analisis BI)|
