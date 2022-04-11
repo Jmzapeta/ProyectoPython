@@ -9,7 +9,7 @@
 |        | - Python desde Jupiter Lab en anaconda          |
 |ENTREGABLE| **Link a repositorio donde se ubican los codigos utilizados para realizacion de proyecto** https://github.com/androseo/tareas-y-proyectos/tree/main/ProyectoFinalPython|
 |          |El archivo llamado RDS-S3.ipynb contiene todo el codigo de ETL|
-||**Video Presentacion de Proyecto** |
+||**Video Presentacion de Proyecto** https://youtu.be/_egtkBPSyfg|
 |CRONOGRAMA|1 al 3 Abril (Busqueda de informacion a utilizar)|
 |          |4 al 6 Abril (Revision y unificacion de informacion para Analisis BI)|
 |          |6 al 8 Abril (Realizacion de primer borrador|
