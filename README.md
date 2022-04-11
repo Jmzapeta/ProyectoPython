@@ -28,7 +28,13 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
 
 ## Procesamiento
 
-
+1.         Seleccionar datos o archivos CSV para trabajar
+         
+2.         Carga archivos CSV a S3
+         
+3.         Carga BD por DataGrip a RDS
+         
+4.         Union de tablas
 
 ## Analitica
  -  Se analizacion los siguientes variables con la realizacion del proyecto
