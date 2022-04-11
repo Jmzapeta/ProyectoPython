@@ -4,9 +4,9 @@
 | ----- | ----------- |
 |OBEJTIVOS| Definir el impacto de cobertura de internet en el pais para realizar programas en linea que disminuyan el analfabetismo contribuyendo al aumento de la poblacion economica activa|
 |RECURSOS| -  Personal (Tres Personas) Trabajo 10 horas de trabajo a la semana durante 2 semanas|
-|        | - 3 Laptops|
-|        | - Bases de Datos|
-|        |                 |
+|        | - 3 Archivos CVS cargados a S3|
+|        | - 1 BD cargada a RDS por medio de DATAGRIP MYSQL|
+|        | - Python desde Jupiter Lab en anaconda          |
 |Entregable|Reporte BI para toma de decisiones|
 |Cronograma|1 al 3 abril (Busqueda de informacion a utilizar)|
 |          |4 al 6 abril (Revision y unificacion de informacion para Analisis BI)|
@@ -14,7 +14,7 @@
 |          |8 al 10 abril (Realizacion de presentacion Markdonw|
 |          |10 al 12 abril (Revision para entrega final|
 |          |        |
-|Fuera de alcance| Nota del Proyecto|
+| |  |
            
 ## Modelo de Datos
 Se utilizo el modelo relacional por su estructura y conveniencia, la principal ventaja de la base de datos relacional reside en la sencillez, que nos permitira manejar grandes cantidades de datos con puntos de relación entre sí, gestionándolos de forma segura y conforme a unas normas y un modo uniforme.
@@ -30,11 +30,18 @@ Por su parte, la concurrencia se ocupa de gestionar las llamadas a consultas de 
 
 1.         Seleccionar datos o archivos CSV para trabajar
          
-2.         Carga archivos CSV a S3
+2.         Carga archivos a S3
+
+3.         Exploracion de Datos 
          
-3.         Carga BD por DataGrip a RDS
+4.         Carga BD por DataGrip a RDS
          
-4.         Union de tablas
+5.         Carga en Python, Limpieza de Datos, Joins, reshape de datos.
+
+6.         Formacion de fact table para crear un archivo final de consumo para S3 (Analitica)
+
+7.         Insides de la data.
+
 
 ## Analitica
  -  Se analizacion los siguientes variables con la realizacion del proyecto
